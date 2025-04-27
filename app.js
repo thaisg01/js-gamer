@@ -65,37 +65,3 @@ function reiniciarJogo() {
   document.getElementById("reiniciar").setAttribute("disabled", true); // Garantir que é desabilitado
 }
 
-// DESAFIO DO CURSO
-// function exibirOla() {
-//   console.log("Olá Mundo!");
-// }
-// exibirOla();
-
-// function exibirOlaNome(nome) {
-//   console.log(`Olá, ${nome}`);
-// }
-// exibirOlaNome("Thais");
-
-// function calcularNumero(numero) {
-//   return numero * 2;
-// }
-// const resultadoDobro = calcularNumero(2);
-// console.log(resultadoDobro);
-
-// function calcularMedia(a, b, c) {
-//   return (a + b + c) / 3;
-// }
-// const resultadoMedia = calcularMedia(4, 5, 6);
-// console.log(resultadoMedia);
-
-// function encontrarNumeroMaior(a, b) {
-//   return a > b ? a : b;
-// }
-// const resultadoNumeroMaior = encontrarNumeroMaior(20, 6);
-// console.log(resultadoNumeroMaior);
-
-// function numeroAoQuadrado(numero) {
-//   return numero * numero;
-// }
-// const resultado = numeroAoQuadrado(8);
-// console.log(resultado);
